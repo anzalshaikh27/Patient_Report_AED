@@ -2,7 +2,8 @@
 Displaying Patient Report using Java swing
 
 Output UI Final Report:
-![image](https://github.com/aed5100/info5100-assignment-1-shaikhmohammedanzal/assets/144715175/e0be4e97-bec8-4130-a2ae-c627d56b185b)
+![image](https://github.com/anzalshaikh27/Patient_Report_AED/assets/57680301/e99cfe7a-c287-449e-9d2b-f34fe58626ab)
 
 Output Window :
-![image](https://github.com/aed5100/info5100-assignment-1-shaikhmohammedanzal/assets/144715175/6da0dd5c-06ab-4fbc-9722-93ce304eff7c)
+![image](https://github.com/anzalshaikh27/Patient_Report_AED/assets/57680301/bc6841ed-ce6d-4a98-b5cc-93bce610cc03)
+
